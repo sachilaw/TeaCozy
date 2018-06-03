@@ -122,20 +122,25 @@ main {
   justify-content: center;
 }
 
-.locationbox {
+.location {
   background-color: black;
   opacity: 1;
   width: 300px;
   height: auto;
   padding: 14px;
   margin: 0px 20px;
+
+}
+
+p {
+  text-align: center;
 }
 
 .contact {
   height: 200px;
 }
 
-.copyright, p {
+p.copyright {
   font-size: 14px;
   text-align: left;
   margin-left: 20px;
